@@ -1,0 +1,92 @@
+Array
+(
+    [id] => 29
+    [type] => controle1
+    [value] => 15
+)
+Array
+(
+    [id] => 29
+    [type] => controle1
+    [value] => 15
+)
+Array
+(
+    [id] => 29
+    [type] => controle2
+    [value] => 5
+)
+Array
+(
+    [id] => 29
+    [type] => controle1
+    [value] => 16
+)
+Array
+(
+    [id] => 30
+    [type] => controle3
+    [value] => 15
+)
+Array
+(
+    [id] => 30
+    [type] => controle4
+    [value] => 25
+)
+Array
+(
+    [id] => 30
+    [type] => controle4
+    [value] => 13
+)
+Array
+(
+    [id] => 29
+    [type] => controle3
+    [value] => 5
+)
+Array
+(
+    [id] => 30
+    [type] => controle3
+    [value] => 6
+)
+Array
+(
+    [id] => 30
+    [type] => efm
+    [value] => 40
+)
+Array
+(
+    [id] => 33
+    [type] => controle1
+    [value] => 2
+)
+Array
+(
+    [id] => 33
+    [type] => controle2
+    [value] => 13
+)
+Array
+(
+    [id] => 33
+    [type] => efm
+    [value] => 17
+)
+Array
+(
+    [id] => 29
+    [type] => efm
+    [value] => 35
+    [course_name] => javascript
+)
+Array
+(
+    [id] => 30
+    [type] => controle3
+    [value] => 16
+    [course_name] => javascript
+)
